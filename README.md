@@ -1,13 +1,33 @@
-# React + Vite
+# 🎵 Spotify Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive music streaming web application inspired by Spotify, built using **React.js** and **Vite**. This project showcases audio playback functionality, clean UI/UX design, and dynamic component interaction using Context API.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live version here:  
+👉 [spotify-clone-wheat-zeta.vercel.app](https://spotify-clone-wheat-zeta.vercel.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Spotify-Clone" 
+## 🚀 Features
+
+- 🎧 Audio player with play/pause, next/previous controls
+- 📱 Fully responsive design for desktop and mobile
+- 🎨 Styled using Tailwind CSS
+- ⚛️ Built with React and Context API
+- 💡 State management using React hooks
+- 📁 Organized file structure and reusable components
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- Vite
+- JavaScript (ES6+)
+- Tailwind CSS
+- Context API
+- Git & GitHub
+
+---
+
